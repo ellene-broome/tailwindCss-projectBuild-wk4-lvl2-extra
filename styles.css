@@ -1,0 +1,23 @@
+/* ADD CSS STYLES HERE */
+/* styles.css */
+
+body {
+  scroll-behavior: smooth;
+}
+
+h2 {
+  letter-spacing: 1px;
+}
+
+/* A custom button style override */
+.custom-btn {
+  background-color: #ff69b4;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 12px;
+  transition: background-color 0.3s ease;
+}
+
+.custom-btn:hover {
+  background-color: #e055a0;
+}
